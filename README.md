@@ -13,3 +13,4 @@
 - 学習内容を Markdown で記録
 - コードとノートを分離
 
+# python_learning
