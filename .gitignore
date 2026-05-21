@@ -3,3 +3,10 @@
 __pycache__/
 *.pyc
 .venv/
+
+# 教科書・参考資料（著作権配慮）
+*.pdf
+
+# ログ
+*.log
+loop_log.txt
